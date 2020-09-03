@@ -1,0 +1,38 @@
+body {
+  background-color:#CCCCFF;
+   font-family: 'Roboto'
+}
+
+h1 {
+  color:black;
+}
+
+.text{
+	font-size: 25px;
+	line-height: 1.5;
+	text-align: justify;
+  	text-justify: inter-word;
+}
+
+.quotation{
+	font-size: 25px;
+	font-style: italic;
+	line-height: 1.5;
+	text-align: justify;
+  	text-justify: inter-word;
+
+}
+
+.text_container{
+	margin-top: 50px;
+  	margin-bottom: 100px;
+  	margin-right: 150px;
+  	margin-left: 80px;
+}
+
+.icon{
+	width: 70px;
+	height: 70px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
